@@ -1,0 +1,15 @@
+Kế hoạch học tập:
+1. Học thêm về JavaScript và ReactJS.
+2. Dành 10 tiếng để làm các bài tập code
+3. Học thêm một ngôn ngữ mới
+4. Xây dựng một dự án ứng dụng web hoàn chỉnh.
+5. Đóng góp mã nguồn mở thường xuyên.
+
+- Sở thích: 
+		Học tiếng Anh
+		viết code
+		Trí tuệ nhân tạo
+- Kỹ năng:
+		Thiết kế hệ thống
+		Lập trình cơ bản
+		Kiểm thử

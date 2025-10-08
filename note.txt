@@ -1,3 +1,3 @@
-- Git giúp tôi theo dõi các thay đổi một cách hiệu quả.
-- Ban đầu các lệnh có vẻ khó, nhưng dần dần quen thuộc hơn.
+- Git là công cụ không thể thiếu trong phát triển phần mềm hiện đại.
+- Tôi cảm thấy tự tin hơn khi thử nghiệm các tính năng mới.
 - Quản lý branch là một tính năng tuyệt vời khi làm việc nhóm.

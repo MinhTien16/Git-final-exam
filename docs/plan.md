@@ -6,7 +6,7 @@ Thứ Tư: Thực hành CSS Flexbox và Grid
 Thứ Năm: Hoàn thành dự án nhỏ cá nhân
 Thứ Sáu: Review Code và Sửa lỗi
 Thứ Bảy: Luyện tập SQL và truy vấn
-Chủ Nhật: Nghỉ ngơi & Lên kế hoạch tuần tới
+Chủ Nhật: Nghỉ ngơi và Lên kế hoạch tuần tới
 
 Ghi chú: 
 - Ngày bắt đầu: 09/10/2025

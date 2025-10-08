@@ -3,5 +3,5 @@
 - MSSV: 221622
 - Ngày làm bài: 08/10/2025
 - Mục tiêu: 
-            Làm quen với git trong học tập và làm bài tập, làm bài nhóm 
-            Thực hành code
+            Làm quen và thành thạo kỹ năng sử dụng git trong học tập, làm bài tập, làm việc và làm việc nhóm. Phát triển phần mềm thực tế trong môi trường hiệu quả 
+            

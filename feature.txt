@@ -1,0 +1,7 @@
+Tính năng mới: Tích hợp Đăng nhập bằng Google
+
+1.Yêu cầu: Cho phép người dùng đăng nhập bằng tài khoản Google.
+2.Chi tiết: Sử dụng OAuth 2.0 để xác thực.
+3.Tác động: Cải thiện trải nghiệm người dùng và tốc độ đăng nhập.
+4.Yêu cầu kỹ thuật: Cài đặt thư viện xử lý OAuth.
+5.Kiểm thử: Đảm bảo luồng đăng nhập an toàn và mượt mà.

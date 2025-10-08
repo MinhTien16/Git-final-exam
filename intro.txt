@@ -1,0 +1,8 @@
+- Sở thích: 
+		Học tiếng Anh
+		viết code
+		Trí tuệ nhân tạo
+- Kỹ năng:
+		Thiết kế hệ thống
+		Lập trình cơ bản
+		Kiểm thử
